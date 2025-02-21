@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoTec.Server", "AvaliacaoTec.Server\AvaliacaoTec.Server.csproj", "{003A1E69-3CC0-47E9-A722-C1C3124B6291}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "avaliacaotec.client", "avaliacaotec.client\avaliacaotec.client.esproj", "{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003A1E69-3CC0-47E9-A722-C1C3124B6291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003A1E69-3CC0-47E9-A722-C1C3124B6291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003A1E69-3CC0-47E9-A722-C1C3124B6291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003A1E69-3CC0-47E9-A722-C1C3124B6291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4318AA0-73F9-4093-B6DE-F11C6CE1D516}
+	EndGlobalSection
+EndGlobal

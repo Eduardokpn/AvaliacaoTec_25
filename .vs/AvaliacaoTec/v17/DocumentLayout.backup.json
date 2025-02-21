@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003A1E69-3CC0-47E9-A722-C1C3124B6291}|AvaliacaoTec.Server\\AvaliacaoTec.Server.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\backup do avalia\u00E7\u00E3o\\backup\\avaliacaotec\\avaliacaotec.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003A1E69-3CC0-47E9-A722-C1C3124B6291}|AvaliacaoTec.Server\\AvaliacaoTec.Server.csproj|solutionrelative:avaliacaotec.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\backup do avalia\u00E7\u00E3o\\backup\\avaliacaotec\\avaliacaotec.client\\src\\components\\cursocomponents\\cursolistcomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|solutionrelative:avaliacaotec.client\\src\\components\\cursocomponents\\cursolistcomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\backup do avalia\u00E7\u00E3o\\backup\\avaliacaotec\\avaliacaotec.client\\src\\components\\cursocomponents\\exibiralunoscomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|solutionrelative:avaliacaotec.client\\src\\components\\cursocomponents\\exibiralunoscomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\backup do avalia\u00E7\u00E3o\\backup\\avaliacaotec\\avaliacaotec.client\\src\\components\\cursocomponents\\editmodelcurso.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|solutionrelative:avaliacaotec.client\\src\\components\\cursocomponents\\editmodelcurso.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\backup do avalia\u00E7\u00E3o\\backup\\avaliacaotec\\avaliacaotec.client\\src\\components\\matriculacomponents\\matriculalistcomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|solutionrelative:avaliacaotec.client\\src\\components\\matriculacomponents\\matriculalistcomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\backup do avalia\u00E7\u00E3o\\backup\\avaliacaotec\\avaliacaotec.client\\src\\components\\matriculacomponents\\addmatriculacomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{678D5899-EAA8-4B9A-A4CC-BD8E550D2088}|avaliacaotec.client\\avaliacaotec.client.esproj|solutionrelative:avaliacaotec.client\\src\\components\\matriculacomponents\\addmatriculacomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\AvaliacaoTec.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AvaliacaoTec.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\AvaliacaoTec.Server\\Program.cs",
+              "RelativeToolTip": "AvaliacaoTec.Server\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:44:58.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursoListComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\CursoComponents\\CursoListComponent.jsx",
+              "RelativeDocumentMoniker": "avaliacaotec.client\\src\\Components\\CursoComponents\\CursoListComponent.jsx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\CursoComponents\\CursoListComponent.jsx",
+              "RelativeToolTip": "avaliacaotec.client\\src\\Components\\CursoComponents\\CursoListComponent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-21T00:41:59.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExibirAlunosComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\CursoComponents\\ExibirAlunosComponent.jsx",
+              "RelativeDocumentMoniker": "avaliacaotec.client\\src\\Components\\CursoComponents\\ExibirAlunosComponent.jsx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\CursoComponents\\ExibirAlunosComponent.jsx",
+              "RelativeToolTip": "avaliacaotec.client\\src\\Components\\CursoComponents\\ExibirAlunosComponent.jsx",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-21T00:41:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddMatriculaComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\MatriculaComponents\\AddMatriculaComponent.jsx",
+              "RelativeDocumentMoniker": "avaliacaotec.client\\src\\Components\\MatriculaComponents\\AddMatriculaComponent.jsx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\MatriculaComponents\\AddMatriculaComponent.jsx",
+              "RelativeToolTip": "avaliacaotec.client\\src\\Components\\MatriculaComponents\\AddMatriculaComponent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-21T00:40:06.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatriculaListComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\MatriculaComponents\\MatriculaListComponent.jsx",
+              "RelativeDocumentMoniker": "avaliacaotec.client\\src\\Components\\MatriculaComponents\\MatriculaListComponent.jsx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\MatriculaComponents\\MatriculaListComponent.jsx",
+              "RelativeToolTip": "avaliacaotec.client\\src\\Components\\MatriculaComponents\\MatriculaListComponent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-21T00:40:04.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditModelCurso.jsx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\CursoComponents\\EditModelCurso.jsx",
+              "RelativeDocumentMoniker": "avaliacaotec.client\\src\\Components\\CursoComponents\\EditModelCurso.jsx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\BACKUP DO AVALIA\u00C7\u00C3O\\backup\\AvaliacaoTec\\avaliacaotec.client\\src\\Components\\CursoComponents\\EditModelCurso.jsx",
+              "RelativeToolTip": "avaliacaotec.client\\src\\Components\\CursoComponents\\EditModelCurso.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-21T00:27:35.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

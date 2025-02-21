@@ -1,0 +1,3 @@
+C:\Users\eduar\OneDrive\Documentos\Projetos\AvaliacaoTec\avaliacaotec.client\obj\Debug\avaliacaotec.client.esproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Projetos\BACKUP DO AVALIAÇÃO\AvaliacaoTec\avaliacaotec.client\obj\Debug\avaliacaotec.client.esproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Projetos\BACKUP DO AVALIAÇÃO\backup\AvaliacaoTec\avaliacaotec.client\obj\Debug\avaliacaotec.client.esproj.CoreCompileInputs.cache
